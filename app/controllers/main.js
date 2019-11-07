@@ -51,9 +51,10 @@ function renderTable(mangNguoiDung) {
 }
 //Thêm người dùng
 function themTestGit(){
-    console.log("them nguoi dung");
+    console.log("them chuc nang dangtuan0893");
     
 }
+
 function themNguoiDung() {
     // console.log("123");
     var taiKhoan = getEle("TaiKhoan").value;
