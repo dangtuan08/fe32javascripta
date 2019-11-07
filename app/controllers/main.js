@@ -50,6 +50,11 @@ function renderTable(mangNguoiDung) {
     getEle("tblDanhSachNguoiDung").innerHTML = contentHTML;
 }
 //Thêm người dùng
+function themTestGit(){
+    console.log("them chuc nang dangtuan0893");
+    
+}
+
 function themNguoiDung() {
     // console.log("123");
     var taiKhoan = getEle("TaiKhoan").value;
